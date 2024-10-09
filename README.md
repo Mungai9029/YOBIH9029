@@ -1,1 +1,8 @@
-# YOBIH9029
+# Mungai-Session-Generator
+- Kindly star my repo
+- Fork and edit as you wish
+- Deploy to your favourite hosting server eg Heroku or Render or self hosting
+
+**YOBIH_BUG_BOT**
+
+
